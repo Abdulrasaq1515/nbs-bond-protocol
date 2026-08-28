@@ -7,10 +7,8 @@ node_modules/
 dist/
 
 # Environment
-.env
 
 # IDE
-.vscode/
 .idea/
 *.swp
 *.swo
@@ -30,3 +28,4 @@ build/
 
 # Angular cache
 **/.angular/cache/
+config.bat
